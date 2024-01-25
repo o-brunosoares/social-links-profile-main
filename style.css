@@ -19,6 +19,7 @@ body {
     background-color: var(--off-black);
     color: var(--white);
     max-width: 1440px;
+    text-align: center;
 }
 
 main {
